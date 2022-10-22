@@ -1,4 +1,3 @@
-![30DaysOfPython](../images/30DaysOfPython_banner3@2x.png)
 - [📘 Day 15](#-day-15)
   - [Python Error Types](#python-error-types)
     - [SyntaxError](#syntaxerror)
