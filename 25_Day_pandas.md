@@ -52,33 +52,6 @@ pip install conda
 pip install pandas
 ```
 
-Pandas data structure is based on *Series* and *DataFrames*. 
-
-A *series* is a *column* and a DataFrame is a *multidimensional table* made up of collection of *series*. In order to create a pandas series we should use numpy to create a one dimensional arrays or a python list.
-Let us see an example of a series:
-
-Names Pandas Series
-
-![pandas series](../images/pandas-series-1.png) 
-
-Countries Series
-
-![pandas series](../images/pandas-series-2.png) 
-
-Cities Series
-
-![pandas series](../images/pandas-series-3.png)
-
-As you can see, pandas series is just one column of data. If we want to have multiple columns we use data frames. The example below shows pandas DataFrames.
-
-Let us see, an example of a pandas data frame:
-
-![Pandas data frame](../images/pandas-dataframe-1.png)
-
-Data frame is a collection of rows and columns. Look at the table below; it has many more columns than the example above:
-
-![Pandas data frame](../images/pandas-dataframe-2.png)
-
 Next, we will see how to import pandas and how to create Series and DataFrames using pandas
 
 ### Importing Pandas
